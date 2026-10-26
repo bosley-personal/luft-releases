@@ -5,18 +5,18 @@
     <link>https://github.com/bosley-personal/luft-releases/releases</link>
     <description>Updates for Luft for Mac</description>
     <item>
-      <title>Luft 0.1.0</title>
-      <sparkle:version>1</sparkle:version>
-      <sparkle:shortVersionString>0.1.0</sparkle:shortVersionString>
-      <pubDate>Mon, 26 Oct 2026 07:51:40 +0000</pubDate>
-      <enclosure url="https://github.com/bosley-personal/luft-releases/releases/download/v0.1.0/Luft.zip" sparkle:edSignature="vHqcDdqkgH/fVm0zaQLcD9331twdoVkouGDFnU9Lt5KoLiKureZG7DU8RoV3/wOKhsGr8iwNjLp0evcqWbN7Cw==" length="12539048" type="application/octet-stream" />
-    </item>
-    <item>
       <title>Luft 0.1.1</title>
       <sparkle:version>2</sparkle:version>
       <sparkle:shortVersionString>0.1.1</sparkle:shortVersionString>
       <pubDate>Mon, 26 Oct 2026 08:02:28 +0000</pubDate>
       <enclosure url="https://github.com/bosley-personal/luft-releases/releases/download/v0.1.1/Luft.zip" sparkle:edSignature="SNl/kLyOhISeWW1qLzCYuTuxiPfrAOuy3xedddxDM19/t2nYdttOe0lcq2jswhc1Ymb3DOUqEkR0qytcxgkhCA==" length="21865762" type="application/octet-stream" />
+    </item>
+    <item>
+      <title>Luft 0.1.0</title>
+      <sparkle:version>1</sparkle:version>
+      <sparkle:shortVersionString>0.1.0</sparkle:shortVersionString>
+      <pubDate>Mon, 26 Oct 2026 07:51:40 +0000</pubDate>
+      <enclosure url="https://github.com/bosley-personal/luft-releases/releases/download/v0.1.0/Luft.zip" sparkle:edSignature="vHqcDdqkgH/fVm0zaQLcD9331twdoVkouGDFnU9Lt5KoLiKureZG7DU8RoV3/wOKhsGr8iwNjLp0evcqWbN7Cw==" length="12539048" type="application/octet-stream" />
     </item>
   </channel>
 </rss>
