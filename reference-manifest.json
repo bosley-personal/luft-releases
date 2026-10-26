@@ -1,0 +1,19 @@
+{
+  "parts": [
+    {
+      "url": "https://github.com/bosley-personal/luft-releases/releases/download/reference-2026-10-26/reference.tar.gz.part-aa",
+      "sha256": "fad63f6db03f9605424c347dc26d23f98f6074dee35ad6f39809fbf96762610e",
+      "bytes": 1572864000
+    },
+    {
+      "url": "https://github.com/bosley-personal/luft-releases/releases/download/reference-2026-10-26/reference.tar.gz.part-ab",
+      "sha256": "823d177b53720149ebdead1f6d94de1f78f1a961051b1752fa37abb6a592dcbb",
+      "bytes": 1572864000
+    },
+    {
+      "url": "https://github.com/bosley-personal/luft-releases/releases/download/reference-2026-10-26/reference.tar.gz.part-ac",
+      "sha256": "cca13adf55bb25e697f059eb6cf7c932fb3fdc054a81c678edb70cf80c76cfd3",
+      "bytes": 77061074
+    }
+  ]
+}
