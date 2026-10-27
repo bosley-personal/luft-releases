@@ -5,6 +5,13 @@
     <link>https://github.com/bosley-personal/luft-releases/releases</link>
     <description>Updates for Luft for Mac</description>
     <item>
+      <title>Luft 0.1.3</title>
+      <sparkle:version>4</sparkle:version>
+      <sparkle:shortVersionString>0.1.3</sparkle:shortVersionString>
+      <pubDate>Tue, 27 Oct 2026 14:50:48 +0000</pubDate>
+      <enclosure url="https://github.com/bosley-personal/luft-releases/releases/download/v0.1.3/Luft.zip" sparkle:edSignature="raA6zakhhaxI6sUIs/qwvD5pnhvjqDDeHAARKkmd2qEzDM7MA8gqYrUrvWkEeTJCEieZhNyi06SnAxeCd7wTBw==" length="103389002" type="application/octet-stream" />
+    </item>
+    <item>
       <title>Luft 0.1.2</title>
       <sparkle:version>3</sparkle:version>
       <sparkle:shortVersionString>0.1.2</sparkle:shortVersionString>
