@@ -5,6 +5,14 @@
     <link>https://github.com/bosley-personal/luft-releases/releases</link>
     <description>Updates for Luft for Mac</description>
     <item>
+      <title>Luft 0.1.6</title>
+      <sparkle:version>7</sparkle:version>
+      <sparkle:shortVersionString>0.1.6</sparkle:shortVersionString>
+      <description><![CDATA[<ul><li>The Mac syncs by itself: shortly after launch, every five minutes, and when you bring Luft to the front.</li><li>Drill: play moves on the board before Start to choose where a drill begins. Stats and options hide while it runs, a position note shows only after a miss, and you get two tries before the answer is shown.</li><li>Drill: a reasonable move that is not in your repertoire no longer gives the answer away, and the Drill button on the stats screen no longer hangs.</li><li>The repertoire window keeps your moves in the order you entered them.</li><li>Sync is safer: Luft keeps a backup before each merge, a damaged file from another device no longer crashes it, and a saved position note is no longer overwritten by a later sync.</li></ul>]]></description>
+      <pubDate>Tue, 24 Nov 2026 05:18:34 +0000</pubDate>
+      <enclosure url="https://github.com/bosley-personal/luft-releases/releases/download/v0.1.6/Luft.zip" sparkle:edSignature="ygpVkmgzjGpLUwgugns8Qp6XEx2EejBrc8+o1xI5HdTqS6SgtBmUt+fL2fAb2zBXSxzSoL1Rj/dwE5rEPBYKDQ==" length="106361276" type="application/octet-stream" />
+    </item>
+    <item>
       <title>Luft 0.1.5</title>
       <sparkle:version>6</sparkle:version>
       <sparkle:shortVersionString>0.1.5</sparkle:shortVersionString>
