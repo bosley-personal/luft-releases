@@ -14,7 +14,7 @@ Luft is a native Mac app for studying chess. It brings your games, opening reper
 
 Luft runs on macOS 14 or later on Apple Silicon and Intel Macs. Open the [latest release page](https://github.com/bosley-personal/luft-releases/releases/latest), download **Luft.dmg** under Assets, open it, and drag Luft.app to the Applications shortcut.
 
-This release is not Apple notarized. If macOS blocks the first launch, open **System Settings → Privacy & Security** and choose **Open Anyway**. Luft checks for signed app updates automatically after installation.
+Luft is signed and notarized by Apple, so it opens without a warning. It checks for signed updates automatically after installation.
 
 On first launch, Luft offers the optional reference database download. It uses about 6 GB when installed; allow about 11 GB free during the download and installation. You can add it later from **Settings → Reference**.
 
